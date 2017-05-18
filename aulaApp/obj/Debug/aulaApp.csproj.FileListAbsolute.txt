@@ -1,0 +1,18 @@
+E:\Executaveis liberados\aulaApp\aulaApp\bin\Debug\aulaApp.exe.config
+E:\Executaveis liberados\aulaApp\aulaApp\bin\Debug\aulaApp.exe
+E:\Executaveis liberados\aulaApp\aulaApp\bin\Debug\aulaApp.pdb
+E:\Executaveis liberados\aulaApp\aulaApp\obj\Debug\aulaApp.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\aulaApp\aulaApp\obj\Debug\aulaApp.Form1.resources
+E:\Executaveis liberados\aulaApp\aulaApp\obj\Debug\aulaApp.Properties.Resources.resources
+E:\Executaveis liberados\aulaApp\aulaApp\obj\Debug\aulaApp.csproj.GenerateResource.Cache
+E:\Executaveis liberados\aulaApp\aulaApp\obj\Debug\aulaApp.exe
+E:\Executaveis liberados\aulaApp\aulaApp\obj\Debug\aulaApp.pdb
+C:\Users\Samsung\Downloads\aulaApp-20170317T151901Z-001\aulaApp\aulaApp\bin\Debug\aulaApp.exe.config
+C:\Users\Samsung\Downloads\aulaApp-20170317T151901Z-001\aulaApp\aulaApp\obj\Debug\aulaApp.exe
+C:\Users\Samsung\Downloads\aulaApp-20170317T151901Z-001\aulaApp\aulaApp\obj\Debug\aulaApp.pdb
+C:\Users\Samsung\Downloads\aulaApp-20170317T151901Z-001\aulaApp\aulaApp\bin\Debug\aulaApp.exe
+C:\Users\Samsung\Downloads\aulaApp-20170317T151901Z-001\aulaApp\aulaApp\bin\Debug\aulaApp.pdb
+C:\Users\Samsung\Downloads\aulaApp-20170317T151901Z-001\aulaApp\aulaApp\obj\Debug\aulaApp.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Downloads\aulaApp-20170317T151901Z-001\aulaApp\aulaApp\obj\Debug\aulaApp.Form1.resources
+C:\Users\Samsung\Downloads\aulaApp-20170317T151901Z-001\aulaApp\aulaApp\obj\Debug\aulaApp.Properties.Resources.resources
+C:\Users\Samsung\Downloads\aulaApp-20170317T151901Z-001\aulaApp\aulaApp\obj\Debug\aulaApp.csproj.GenerateResource.Cache
